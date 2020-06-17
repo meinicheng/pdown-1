@@ -11,7 +11,7 @@ PDown下载器后继版,百度网盘代下载
 ---
 ### 0.更新时间：2020-6-17 20:58，请参阅 [更新日志.md](更新日志.md)  
   
-#### 下载地址： [PDown v3.4.4.zip](https://assets.baklib.com/aea1138f-02f2-4d1d-9c75-e481b31885ab/PDown%20v3.4.41592398594856.zip)  ---   [去 baklib 下载](https://pdown.baklib.com/)  ---  [去 Github 下载](https://github.com/forpdown/pdown/releases)  ---  [去 文叔叔 下载](https://ws28.cn/f/2smtb5jfdrb)
+#### 下载地址： [PDown v3.4.4.zip](https://assets.baklib.com/aea1138f-02f2-4d1d-9c75-e481b31885ab/PDown%20v3.4.41592398594856.zip)  ---   [去 baklib 下载](https://pdown.baklib.com/)  ---  [去 Github 下载](https://github.com/forpdown/pdown/releases/download/v3.04.04/PDown.v3.4.4.zip)  ---  [去 文叔叔 下载](https://ws28.cn/f/2smtb5jfdrb)
 
   
 ### 1.安装使用
