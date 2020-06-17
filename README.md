@@ -11,7 +11,7 @@ PDown下载器后继版,百度网盘代下载
 ---
 ### 0.更新时间：2020-6-17，请参阅 [更新日志.md](更新日志.md)  
   
-#### 下载地址： [永硕E盘](http://pdown.ys168.com/)  ---   [文叔叔](https://ws28.cn/f/2sk8ngkt9i5)  ---  
+#### 下载地址： [永硕E盘](http://pdown.ys168.com/)  ---   [文叔叔](https://ws28.cn/f/2sk8ngkt9i5)  ---  [Github](https://github.com/forpdown/pdown/releases)
 
   
 ### 1.安装使用
